@@ -783,5 +783,5 @@ módulo nuevo sea independiente — no tienes que tocar el core.
 
 ---
 
-*Hecho con Claude.*
+*Hecho con Claude. Si no es con Claude, no sale buen agente.*
 *— Lex @ LatenciaTech*

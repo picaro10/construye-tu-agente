@@ -89,7 +89,9 @@ Y el selector inteligente no le manda 100 herramientas al LLM — elige las 3-4 
 | 10 | **Tests** | Tests de los módulos críticos con Vitest |
 | 11 | **Deploy** | systemd + nginx + HTTPS + backups automáticos |
 
-👉 **[Ver la guía completa con todos los prompts](./GUIA_COMPLETA.md)**
+👉 **[Empezar desde cero (si es tu primer proyecto)](./EMPEZAR_DESDE_CERO.md)**
+
+👉 **[Ver la guía completa con todos los prompts](./CONSTRUYE_TU_AGENTE.md)**
 
 👉 **[Prompts individuales por módulo](./prompts/)**
 
