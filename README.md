@@ -5,6 +5,16 @@
 > No es un wrapper de ChatGPT. No es un bot de Telegram con `fetch`.
 > Es un agente real con sistema de skills, memoria semántica, y herramientas que ejecutan acciones de verdad.
 
+---
+
+## Esto es real — capturas de ORION en acción
+
+| Telegram: Skills, Docker, LinkedIn | Telegram: Seguridad, Audio, Verificación | WhatsApp: Docker, Noticias, LinkedIn |
+|:---:|:---:|:---:|
+| ![Telegram skills](./images/telegram-skills-docker-linkedin.png) | ![Telegram seguridad](./images/telegram-seguridad-audio-verificacion.png) | ![WhatsApp](./images/whatsapp-docker-noticias-linkedin.png) |
+
+> Estas capturas son de **ORION** — el agente completo del que se extrajo esta guía.
+> Lo que tú vas a construir es la base. Lo que hagas después depende de ti.
 
 ---
 
@@ -159,26 +169,13 @@ Lo que comparto aquí es la base — lo suficiente para que tengas un agente per
 ## Estructura del repo
 
 ```
-├── README.md                ← Estás aquí
-├── GUIA_COMPLETA.md         ← La guía con los 11 módulos en un solo documento
-├── prompts/                 ← Prompts individuales por módulo (para copiar fácil)
-│   ├── 01-base-scaffold.md
-│   ├── 02-base-database.md
-│   ├── 03-base-skills.md
-│   ├── 04-base-agent.md
-│   ├── 05-base-telegram.md
-│   ├── 06-base-seguridad.md
-│   ├── 07-base-docker.md
-│   ├── 08-memoria.md
-│   ├── 09-web-search.md
-│   ├── 10-email.md
-│   ├── 11-content.md
-│   ├── 12-pdf.md
-│   ├── 13-reminders.md
-│   ├── 14-file-ops.md
-│   ├── 15-imagenes.md
-│   ├── 16-tests.md
-│   └── 17-deploy.md
+├── README.md                   ← Estás aquí
+├── EMPEZAR_DESDE_CERO.md       ← Si es tu primer proyecto, empieza aquí
+├── CONSTRUYE_TU_AGENTE.md      ← La guía con los 11 módulos y todos los prompts
+├── images/                     ← Capturas de ORION en acción
+│   ├── telegram-skills-docker-linkedin.png
+│   ├── telegram-seguridad-audio-verificacion.png
+│   └── whatsapp-docker-noticias-linkedin.png
 └── LICENSE
 ```
 
