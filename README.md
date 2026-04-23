@@ -35,7 +35,7 @@ Todo desde tu Telegram. Sin SaaS. Sin suscripción. Sin humo.
 
 ## ¿Por qué es diferente a lo que hay por ahí?
 
-Porque tiene **sistema de skills real**. Eso es lo que separa un juguete de una herramienta.
+Porque tiene **sistema de skills real** y porque con esta base puede crear un ecosistema propio, Eso es lo que separa un juguete de una herramienta.
 
 La mayoría de "agentes IA" que se venden son esto:
 
