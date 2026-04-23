@@ -126,7 +126,7 @@ Cada prompt está escrito en lenguaje natural, como hablarías con un compañero
 
 Estos prompts están extraídos de la construcción real de **ORION** — un asistente IA personal con +20K líneas de código, 233 herramientas, 32 skills, 5 canales, memoria semántica, voice calls en tiempo real, sistema de seguridad de 11 módulos, y un agente que aprende de sus propios errores.
 
-ORION se construyó **hablando con Claude**. Sin prompts de ingeniería, sin plantillas. Preguntando "¿y si le meto un sistema de skills?" y Claude respondiendo "se puede, el mejor camino es X". Pieza por pieza, sesión por sesión.
+ORION se construyó **hablando con Claude**. Preguntando "¿y si le meto un sistema de skills?" y Claude respondiendo "se puede, el mejor camino es X". Pieza por pieza, sesión por sesión.
 
 Lo que comparto aquí es la base — lo suficiente para que tengas un agente personal más potente que cualquier wrapper de ChatGPT o bot de n8n. Lo que hagas después depende de tu imaginación.
 
