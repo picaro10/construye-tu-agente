@@ -308,7 +308,8 @@ La diferencia entre alguien que construye algo y alguien que no, no es el talent
 Tienes a Claude ahí. Pregúntale todo. Las veces que haga falta.
 
 Ahora ve al [Módulo 1](./CONSTRUYE_TU_AGENTE.md#m%C3%B3dulo-1--la-base-scaffold--config--skill-system--agent--telegram) y empieza a construir.
-
+En unos dias subire e proyecto terminado,voy justo de tiempo,intenta crear  con tus propias manos,intenta aprender con el proceso y habla con claude,chatgpt o el que uses indicando que te explique como un niño de 10 años
+BUENA SUERTE.
 ---
 
 *Si algo de esta guía no se entiende, abre un issue y lo mejoramos entre todos.*
