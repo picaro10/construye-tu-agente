@@ -26,7 +26,7 @@
 - Con memoria semántica — recuerda lo que hablasteis
 - Que te busca noticias, te lee emails, te genera PDFs, te crea contenido, te pone recordatorios
 - Todo desde Telegram, con tu móvil
-- Más potente que cualquier "agente" de n8n o wrapper que venden por ahí
+- Más potente y escalable que cualquier "agente" de n8n o wrapper que venden por ahí
 
 **Cómo usar esta guía:**
 Cada módulo es un prompt que le pegas a Claude (idealmente en Claude Code, pero también vale Claude chat). Hazlo en orden. Después de cada prompt, Claude te va a generar código — revísalo, pregúntale dudas, itéralo. Esto no es copiar y pegar — es construir hablando.
